@@ -5,7 +5,7 @@ Use it for your book, by adding to your book.json:
 
 ```
 {
-    "plugins": ["katex@git+https://github.com/gaoxiaosong/plugin-katex.git"]
+    "plugins": ["katex@git+https://github.com/Nikscorp/plugin-katex.git"]
 }
 ```
 
